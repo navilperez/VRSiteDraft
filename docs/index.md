@@ -23,15 +23,13 @@ Transport yourself to a zen landscape where one can learn Eastern traditions of 
 
 ## Learning Goals
 
-### Mental Health 
-
-### Physical Education
+- <b>Skill Building</b>: Tea-Chi Tai-Chi will expose beginner students to the fundamentals of tai chi and shavasana. For more advanced students, this VR applications will act as a mentor to perfect your skills and reap the full benefits of tai chi and shavasana. 
+- <b>Mental Health</b>: A beautiful backdrop with soothing background music will at once transport a student away from their stress filled physical environments to the tranquility of Tea-Chi Tai-Chi. By encouraging the student to focus on their movements and breath, this application will readjust their stress levels, thereby increasing cognitive clarity and mental well-being.
+- <b>Physical Education</b>: Tea-Chi Tai-Chi is a sensory experience into the traditional mediums of learning tai chi and shavasana. This gives the user a fun and exciting new twist to age old traditions usually limited to a studio.
 
 ## Project Concept
 
-Lorem ipsum dolor sit amet, in ius principes honestatis, ius no ipsum verear aperiri. Ad offendit interesset per. Ad enim dissentias nam, ea tale magna congue mea. Eos te nonumes suscipit, sit elit platonem an, eu mel congue sanctus. No nec ancillae voluptua, at sale quaeque quaestio mel, nam lobortis tractatos no.
-
-Usu ferri audiam accusamus an, sea quod novum diceret ne. Id mazim veniam postulant mel, id quo fabulas omittantur instructior. In vel verear alterum oporteat, cum ei velit volumus alienum. Dicta elitr dolorum eam ad. Et vitae placerat percipitur usu, sea ei reque accusam neglegentur. Ea partiendo conceptam nam.
+You are transported to a serene, mountain-side environment free of distractions and the stresses of everyday life. As soft, calming music plays in the background, your instructor greets you and asks you what to do. You can just do tai-chi, shavasana, or have the full experience (both tai-chi and shavasana). If tai-chi is chosen, shadow puppets of the instructor materializes in all four of your cardinal directions. This gives you a full 360 degree view of how movements should be done and what it should look life. As for the shavasana, the world dims to starlight and a voice encourages you to close your eyes. Now, this applications turns into an audio experience where the voice of the instructor guides you through deep breathing exercises and snaps you back from any mental distractions. As shavasana ends, the world will slowly shift back to daylight again.
 
 ## Related Work
 
