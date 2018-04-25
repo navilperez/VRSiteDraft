@@ -19,15 +19,13 @@ ExampleProject is a groundbreaking educational VR application. Using ExampleProj
 
 ## Introduction
 
-Think of this section as your *abstract*, where you can give a high-level overview of your project.
-
-Lorem ipsum dolor sit amet, an etiam signiferumque sit, at esse dictas accumsan mea. Has an aperiri corpora, qui porro oratio id. Eos splendide mnesarchum et, quod inimicus electram per ut. Mei dicit vulputate at. Ut menandri consetetur posidonium vim, sit scripta erroribus gloriatur an. Utamur recteque principes ex sit, duo labitur electram no. Iusto minimum pri no, ius id ubique facilis. Pri impetus facilisi conceptam in. Eam at ceteros deleniti, saepe mollis moderatius ne has. Per ad adhuc dissentiunt, summo tritani nominati ad pro.
+Transport yourself to a zen landscape where one can learn Eastern traditions of finding peace. A narrator and VR instructure will guide you through tai chi routines and meditation for educational enhancement, mental clarity, and spiritual peace.
 
 ## Learning Goals
 
-Lorem ipsum dolor sit amet, qui oratio perpetua ut. Purto fabellas phaedrum mea ad, at consetetur persequeris consectetuer qui, no dicunt fabellas per. Praesent mnesarchum te vis. Vix etiam semper intellegat id, eos no stet audiam. Civibus deserunt vis ne, his senserit molestiae te, putent regione scripserit vix ad. Cu sit autem delicata. Esse choro persequeris at eos.
+### Mental Health 
 
-Te ponderum adipiscing vis, facer utroque has et. Accusam pericula cum cu, usu magna adipisci gubergren cu. Per sumo pertinax pericula at, amet convenire constituam in eos. Duo ea evertitur intellegebat, autem idque abhorreant id vel, sea nihil percipit comprehensam et. Vel posse omnium ad. Audiam instructior no vim, exerci indoctum liberavisse sit an.
+### Physical Education
 
 ## Project Concept
 
