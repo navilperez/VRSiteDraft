@@ -7,7 +7,7 @@ ExampleProject is a groundbreaking educational VR application. Using ExampleProj
 
  - [Introduction](#introduction)
  - [Learning Goals](#learning-goals)
- - [Educational Theory](#Educational Theory)
+ - [Educational Theory](#educational-theory)
  - [Project Concept](#project-concept)
  - [Related Work](#related-work)
  - [Prototype](#prototype)
