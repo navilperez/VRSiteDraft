@@ -7,6 +7,7 @@ ExampleProject is a groundbreaking educational VR application. Using ExampleProj
 
  - [Introduction](#introduction)
  - [Learning Goals](#learning-goals)
+ - [Educational Theory](#Educational Theory)
  - [Project Concept](#project-concept)
  - [Related Work](#related-work)
  - [Prototype](#prototype)
@@ -22,6 +23,12 @@ ExampleProject is a groundbreaking educational VR application. Using ExampleProj
 Transport yourself to a zen landscape where one can learn Eastern traditions of finding peace. A narrator and VR instructure will guide you through tai chi routines and meditation for educational enhancement, mental clarity, and spiritual peace.
 
 ## Learning Goals
+
+- <b>Situated Cognition</b>: The learning theory of environmental cognition comes into play in our VR through the context of our environment. The students are put into a fully immersive landscape that evokes a sense of calm and promotes focus to aid in learning.  
+- <b>Embodied Cognition</b>: A beautiful backdrop with soothing background music will at once transport a student away from their stress filled physical environments to the tranquility of Tea-Chi Tai-Chi. By encouraging the student to focus on their movements and breath, this application will readjust their stress levels, thereby increasing cognitive clarity and mental well-being.
+- <b>Experiential Learning</b>: Experiential Learning is the idea of “learning through the reflection of doing”. Tea-Chi Tai-Chi allows the learner to actively see themselves as they mimic moves and get immediate feedback. In addition, in a later iteration of the program, there can be a video recording component that allows the user to see how they perform a series of moves.
+
+## Educational Theory
 
 - <b>Skill Building</b>: Tea-Chi Tai-Chi will expose beginner students to the fundamentals of tai chi and shavasana. For more advanced students, this VR applications will act as a mentor to perfect your skills and reap the full benefits of tai chi and shavasana. 
 - <b>Mental Health</b>: A beautiful backdrop with soothing background music will at once transport a student away from their stress filled physical environments to the tranquility of Tea-Chi Tai-Chi. By encouraging the student to focus on their movements and breath, this application will readjust their stress levels, thereby increasing cognitive clarity and mental well-being.
